@@ -30,5 +30,5 @@ To become a skilled software/backend developer and build practical projects.
 
 ### 📫 Connect With Me
 
-- LinkedIn
-- GitHub
+- LinkedIn [https://www.linkedin.com/in/divya-kumari-a733023a0]
+- GitHub [https://github.com/Divya387]
