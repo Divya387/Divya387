@@ -7,7 +7,6 @@ I am a 3rd-year B.Tech student interested in software development and backend de
 ### 💻 Skills
 
 - Java
-- C++
 - SQL
 - JDBC
 - OOP
